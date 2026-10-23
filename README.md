@@ -167,9 +167,3 @@ node tests/webhook-dispatcher.test.js
 - Security safeguards & threat model: [docs/SECURITY.md](file:///d:/Projects/Should-AI-Trade/docs/SECURITY.md)
 - Implementation audit & verification: [docs/IMPLEMENTATION_AUDIT.md](file:///d:/Projects/Should-AI-Trade/docs/IMPLEMENTATION_AUDIT.md)
 
----
-
-## 7. Legal Attribution & License
-
-- Based on the hackathon project base *Should-AI-Buy?* (Awarded 2nd Place at Alpaca $\times$ Lablab.ai Autonomous Trading Hackathon).
-- Licensed under the Business Source License 1.1 (BSL 1.1). See [`LICENSE`](file:///d:/Projects/Should-AI-Trade/LICENSE) for terms.
